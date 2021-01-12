@@ -1,3 +1,4 @@
+#code
 import os.path
 game_file = ".oxogame.dat"
 
